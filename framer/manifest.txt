@@ -1,0 +1,444 @@
+node_modules/framer/resource.d.ts
+node_modules/framer/package.json
+node_modules/framer/node_modules/react/package.json
+node_modules/framer/node_modules/react/index.d.ts
+node_modules/framer/node_modules/react/global.d.ts
+node_modules/framer/node_modules/prop-types/package.json
+node_modules/framer/node_modules/prop-types/index.d.ts
+node_modules/framer/node_modules/framer-motion/package.json
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/package.json
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/value-types/units.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/value-types/numbers.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/value-types/complex.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/value-types/color.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/utils.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/types.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/index.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/value-types/units.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/value-types/numbers.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/value-types/complex.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/value-types/color.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/utils.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/types.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/index.d.ts
+node_modules/framer/node_modules/framer-motion/dist/framer-motion.d.ts
+node_modules/framer/node_modules/csstype/package.json
+node_modules/framer/node_modules/csstype/index.d.ts
+node_modules/framer/build/framer.js.map
+node_modules/framer/build/framer.js
+node_modules/framer/build/framer.debug.js.map
+node_modules/framer/build/framer.debug.js
+node_modules/framer/build/framer.d.ts
+node_modules/framer/build/framer.api.json
+node_modules/framer/README.md
+node_modules/framer/LICENSE.md
+node_modules/framer/CHANGELOG.md
+node_modules/@framer/steveruizok.undraw/tsconfig.json
+node_modules/@framer/steveruizok.undraw/package.json
+node_modules/@framer/steveruizok.undraw/package-lock.json
+node_modules/@framer/steveruizok.undraw/metadata/icon.png
+node_modules/@framer/steveruizok.undraw/metadata/artwork.png
+node_modules/@framer/steveruizok.undraw/dist/index.js
+node_modules/@framer/steveruizok.undraw/design/document.json
+node_modules/@framer/steveruizok.undraw/code/canvas.tsx
+node_modules/@framer/steveruizok.undraw/code/UnDraw.tsx
+node_modules/@framer/steveruizok.undraw/code/Examples.tsx
+node_modules/@framer/steveruizok.undraw/README.md
+node_modules/@framer/hyfive.feather-ui-fundamentals/tsconfig.json
+node_modules/@framer/hyfive.feather-ui-fundamentals/package.json
+node_modules/@framer/hyfive.feather-ui-fundamentals/metadata/icon.png
+node_modules/@framer/hyfive.feather-ui-fundamentals/metadata/artwork.png
+node_modules/@framer/hyfive.feather-ui-fundamentals/dist/index.js
+node_modules/@framer/hyfive.feather-ui-fundamentals/design/document.json
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/styles/style-index.css
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/styles/shared.css
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/styles/button.css
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/canvas.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Navigation/TitleBar.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Navigation/Tabbar.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Module/Toast.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Module/AlertTwoButton.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Module/Alert.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Map/Map.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Form/InputVCode.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Form/InputTextArea.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Form/InputRemove.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Form/InputLocation.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Form/InputLargeImage.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Form/InputImage.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Form/InputAdd.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Form/Input.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Examples.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/Tag.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/SwitchItem.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/Switch.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/Slider.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/SegmentedSlider.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/Roller.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/RadioItem.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/Radio.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/Menu.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/ListItem.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/Checkbox.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/CheckBoxItem.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/Buttons.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Entry/Button.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Display/Tips.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Display/Header.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Display/Divider.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Device/iPhone_X_Navigation_Bar.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Device/StatusBar_iPhone_X.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Device/StatusBar.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Device/Keyboard.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Container/PageWIthMedia.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/code/Container/BottomSheet.tsx
+node_modules/@framer/hyfive.feather-ui-fundamentals/README.md
+node_modules/@framer/hjotar.browser-x-kit/tsconfig.json
+node_modules/@framer/hjotar.browser-x-kit/package.json
+node_modules/@framer/hjotar.browser-x-kit/metadata/icon.png
+node_modules/@framer/hjotar.browser-x-kit/metadata/artwork.png
+node_modules/@framer/hjotar.browser-x-kit/index.html
+node_modules/@framer/hjotar.browser-x-kit/images/cursors/touch@2x.png
+node_modules/@framer/hjotar.browser-x-kit/images/cursors/touch.png
+node_modules/@framer/hjotar.browser-x-kit/images/cursors/touch-active@2x.png
+node_modules/@framer/hjotar.browser-x-kit/images/cursors/touch-active.png
+node_modules/@framer/hjotar.browser-x-kit/dist/index.js
+node_modules/@framer/hjotar.browser-x-kit/design/document.json
+node_modules/@framer/hjotar.browser-x-kit/code/canvas.tsx
+node_modules/@framer/hjotar.browser-x-kit/code/BrowserTop.tsx
+node_modules/@framer/hjotar.browser-x-kit/code/BrowserBottom.tsx
+node_modules/@framer/hjotar.browser-x-kit/build/style.css
+node_modules/@framer/hjotar.browser-x-kit/build/standalone.js
+node_modules/@framer/hjotar.browser-x-kit/build/react.development.js
+node_modules/@framer/hjotar.browser-x-kit/build/react-dom.development.js
+node_modules/@framer/hjotar.browser-x-kit/build/index.js
+node_modules/@framer/hjotar.browser-x-kit/build/Draft.css
+node_modules/@framer/hjotar.browser-x-kit/README.md
+node_modules/@framer/gusso.magic-move/tsconfig.json
+node_modules/@framer/gusso.magic-move/package.json
+node_modules/@framer/gusso.magic-move/metadata/icon.png
+node_modules/@framer/gusso.magic-move/metadata/artwork.png
+node_modules/@framer/gusso.magic-move/dist/index.js
+node_modules/@framer/gusso.magic-move/code/utils.js
+node_modules/@framer/gusso.magic-move/code/processValues.js
+node_modules/@framer/gusso.magic-move/code/getElements.tsx
+node_modules/@framer/gusso.magic-move/code/RenderElement.tsx
+node_modules/@framer/gusso.magic-move/code/NewConstraints.tsx
+node_modules/@framer/gusso.magic-move/code/MagicMove.tsx
+node_modules/@framer/gusso.magic-move/code/EmptyState.tsx
+node_modules/@framer/gusso.magic-move/code/Constraints.ts
+node_modules/@framer/gusso.magic-move/README.md
+node_modules/@framer/framer.base/tsconfig.json
+node_modules/@framer/framer.base/package.json
+node_modules/@framer/framer.base/metadata/icon.png
+node_modules/@framer/framer.base/metadata/artwork.png
+node_modules/@framer/framer.base/dist/index.js
+node_modules/@framer/framer.base/design/document.json
+node_modules/@framer/framer.base/code/utils/resizeLayout.tsx
+node_modules/@framer/framer.base/code/utils/placeholderState.tsx
+node_modules/@framer/framer.base/code/utils/index.ts
+node_modules/@framer/framer.base/code/utils/centerLayout.tsx
+node_modules/@framer/framer.base/code/utils/OmitTheme.ts
+node_modules/@framer/framer.base/code/propertyControls/themeControls.ts
+node_modules/@framer/framer.base/code/propertyControls/resizeControls.ts
+node_modules/@framer/framer.base/code/propertyControls/patternControls.ts
+node_modules/@framer/framer.base/code/propertyControls/intentControls.ts
+node_modules/@framer/framer.base/code/propertyControls/index.ts
+node_modules/@framer/framer.base/code/propertyControls/iconControls.ts
+node_modules/@framer/framer.base/code/propertyControls/decoratorControls.ts
+node_modules/@framer/framer.base/code/propertyControls/breakpointControls.ts
+node_modules/@framer/framer.base/code/index.ts
+node_modules/@framer/framer.base/code/hooks/useMutationObserver.ts
+node_modules/@framer/framer.base/code/hooks/index.ts
+node_modules/@framer/framer.base/code/canvas.tsx
+node_modules/@framer/framer.base/code/Typography/Text.tsx
+node_modules/@framer/framer.base/code/Typography/Heading.tsx
+node_modules/@framer/framer.base/code/Theme/Theme.tsx
+node_modules/@framer/framer.base/code/Theme/Breakpoint.tsx
+node_modules/@framer/framer.base/code/Overrides.tsx
+node_modules/@framer/framer.base/code/Miscellaneous/Tooltip.tsx
+node_modules/@framer/framer.base/code/Miscellaneous/Spinner.tsx
+node_modules/@framer/framer.base/code/Miscellaneous/Progress.tsx
+node_modules/@framer/framer.base/code/Miscellaneous/Label.tsx
+node_modules/@framer/framer.base/code/Miscellaneous/Image.tsx
+node_modules/@framer/framer.base/code/Miscellaneous/Icon.tsx
+node_modules/@framer/framer.base/code/Layout/List.tsx
+node_modules/@framer/framer.base/code/Layout/Card.tsx
+node_modules/@framer/framer.base/code/Layout/Base.tsx
+node_modules/@framer/framer.base/code/Controls/Toggle.tsx
+node_modules/@framer/framer.base/code/Controls/TextArea.tsx
+node_modules/@framer/framer.base/code/Controls/Switch.tsx
+node_modules/@framer/framer.base/code/Controls/Slider.tsx
+node_modules/@framer/framer.base/code/Controls/Select.tsx
+node_modules/@framer/framer.base/code/Controls/RadioGroup.tsx
+node_modules/@framer/framer.base/code/Controls/Radio.tsx
+node_modules/@framer/framer.base/code/Controls/Input.tsx
+node_modules/@framer/framer.base/code/Controls/Checkbox.tsx
+node_modules/@framer/framer.base/code/Controls/ButtonGroup.tsx
+node_modules/@framer/framer.base/code/Controls/Button.tsx
+node_modules/@framer/framer.base/README.md
+node_modules/@framer/edoardo.web-ui-kit/tsconfig.json
+node_modules/@framer/edoardo.web-ui-kit/package.json
+node_modules/@framer/edoardo.web-ui-kit/metadata/icon.png
+node_modules/@framer/edoardo.web-ui-kit/metadata/artwork.png
+node_modules/@framer/edoardo.web-ui-kit/dist/index.js
+node_modules/@framer/edoardo.web-ui-kit/design/document.json
+node_modules/@framer/edoardo.web-ui-kit/code/canvas.tsx
+node_modules/@framer/edoardo.web-ui-kit/build/index.js
+node_modules/@framer/edoardo.web-ui-kit/README.md
+node_modules/@framer/dropboxdesign.desktop-kit/tsconfig.json
+node_modules/@framer/dropboxdesign.desktop-kit/package.json
+node_modules/@framer/dropboxdesign.desktop-kit/metadata/icon.png
+node_modules/@framer/dropboxdesign.desktop-kit/metadata/artwork.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/wallpapers/mojave_day.jpg
+node_modules/@framer/dropboxdesign.desktop-kit/images/wallpapers/catalina_day.jpg
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Sync Syncing.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Sync Partial.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Sync Error.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Sync Cloud.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Sync Check.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Sidebar iCloud Drive.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Sidebar Downloads.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Sidebar Desktop.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Sidebar Applications.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Sidebar AirDrop.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Permission Private.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Permission Locked.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Folder.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Folder Team.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Folder Shared.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Folder Restricted.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Folder Member.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Folder Dropbox.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Folder Download.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Folder Camera.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Folder Applications.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/Folder App.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Zip.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Word.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Text.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Sketch.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Powerpoint.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Photoshop.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Paper.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Pages.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File PNG.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File PDF.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Numbers.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Movie.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Link.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Keynote.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File JPEG.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Illustrator.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File GIF.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Framer.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Font.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Excel.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Calendar.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Blank.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File Autocad.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/File After Effects.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Trash Full.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Trash Empty.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon System Preferences.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Slack.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Sketch.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Safari.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Quicktime.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Preview.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Photos.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Notes.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Messages.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Maps.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Mail.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Keynote.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Generic.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Framer X.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Finder.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Facetime.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Dropbox.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Chrome.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon Calendar.png
+node_modules/@framer/dropboxdesign.desktop-kit/images/Icons/App Icon App Store.png
+node_modules/@framer/dropboxdesign.desktop-kit/dist/index.js
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/zyvipLOktBwprBKWNfNFso96vm0.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/yhmHrWBQnmV0UcxqUGytvYwG8SE.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/y8d3XouiHE04A06uLWpSZXJdsR4.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/xiNPxNQKCXgyKw7PXwy0i77TgNw.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/xQWz5PrceqojlDsR3QXScdAos.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/wwXYCusgasG5pM5SPILUepTkM.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/wsPUjWo8LIYfgLlH5Lnf7N33o6o.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/waSVLKQJOrqywQkx26sYIXgu228.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/wZYBoYRdyOKALjkSRQAB2UFdd0M.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/vfyUXdNj6ZcoAkbet4M01lhq1tk.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/uWNzeBb64n5fZYu6QwCJxEGUk.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/tuU6fThqGP6NHaL6IyOpeAvHrFM.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/re2GSdexOvD0YCifO9llD3okUw.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/pzZoklMbhKOEejBhSBTYSwZbL3s.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/ngIrVhupA956iZZtr780lkfpUuQ.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/nWPhfsr3UC4jo4zNCJiQwbLsw.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/m8LcVthOQvmb6ldIa80lnm8XE14.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/kAzKDszV94r0NyLlq59dkldeeEQ.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/hmQnsEJ6k3fjyW17Iyeaxi8Uiik.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/hZ0t1K8en8q1Xxl4MYug7eQPvi0.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/hQqAFoRQormsKYP9TVnWuEpgLgs.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/h0mbHM3kGzbX6DVFsfQdCEb7uM.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/fzJjgWu2eQHJnHM5Oeic0g8K50.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/ek4DJUEdellcs3GuuuOrOfjYiZ4.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/eJTDJW5nEwKeoh37OibYrEGcMc.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/dzgheIwesAfOJ81ieQNwD5bUSc.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/dEXmAbMLU4GoHfktoXQ2G9wJes.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/cTKLdLveaslGc9myz2uwnh7viA0.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/azOCU2yyU4pohh3apvhsxRmlGM.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/akGX2uU6ElTbGbklusjlGmWtTk.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/aVVRTYmG2sorOk3jyNRWVxMuZbs.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/Zsr3rir29jpfWS02jrA1bPQVGWU.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/Zjy2eoHRXpt3qGJHJIWxn2rneME.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/ZHMiaEoIWRJRIJ0zfuMnwQM5gJY.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/ZEZImFMNXqzdUFswgv5pj4qe0ek.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/Z9yEz7QTPtzaQT1moLnmX0RN8M8.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/YMQBeOlbJzUR1CSdaVIEOleg.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/YBmEIGHwylpBZG27duVNnvuhD10.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/WTRl20OjLS4WOLuHdVI0z5WGdc.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/WB1SJY67RUmSl5BWtYAlwe9l7fc.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/VyRdVgd6mRWkrqIlpplGQjW9o.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/UI3dtGOnA37ky4TpjBBRRUArmSU.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/U5Hke1bjhcECphb5WKcQ25mb0g.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/TatPktp7qpSVshh8VqEDdjPUCm8.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/TALS9RNAvvRgwobAOorYAwvlKT8.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/RVo5oXpdRi1ihmEyjYC67FzOY.jpg
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/R3n4RDQ9gpAOPvegvyVFWiN0Bc.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/QTXeOz9h2FRIc73EHudELC12Yk.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/QTOXVs0uSzilDHcPNWQHHGBYYDI.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/QQ9Js8Bk7EEYBngoN5S2G5OZ9Y.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/PDCDEZipaekDhd8Yv9O5lfURq2s.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/NtzPeY06lH5hOQRtsclaJr6YY.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/Nt1iNxqD5L2hSEPn3Rar6B9YE.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/LnLRfp0XWgszN99bSMeL2Ya6q5Q.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/JqzfncMjnUt3kRyCzF9pSkyqs.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/IVmJgBB4BNUJ8rvf8k57kW240.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/INDbqfU4EXgcCOJYauOBKsN5R6k.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/I8gid1kSN2rAqWCBx0v8l7Y0Zmk.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/FWpyPNk9tQ2dH9BvGqHg0vOW7Y.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/FVdAS2Yi8xPY2rrwW8vk98HSZGY.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/FLdJMPQp1xGuDwoLaEutVmis2nw.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/ECISMAjTRYapUkLgDLoWB8iQ2zY.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/CzSfqjgMTOYyyb1Dnn3ojmTrRs.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/CJJEjNbjXHhiWNCfUdRsTlrcDjw.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/Akc5MMFg1lkWGEX4aIUQpoBfqU.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/AARfoGsVid6JPwwiRCcrWn6L1y8.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/7ycf8nc4ofvQAXMHUPABycDLg.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/7QqOpqIg7VNhhPzjM35qXin2m0.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/5IdyHG3bAUAUN5gOI8jz0KnYcVQ.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/57ChwEdwo9kUu9l2szDEEOO1Xmw.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/1iZVHwPu2rv2x3hGYA9PjQQCtR0.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/13r22LMduhYGmhVlVpb5M3b0Xdc.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/0ScnvyAUxTWu34R23uqpMvM3yG4.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/0Gzn2Cf9DufzAhgvHS2kzYltei0.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/images/04B0Lzppy1DnCfXocEsjiyatug.png
+node_modules/@framer/dropboxdesign.desktop-kit/design/document.json
+node_modules/@framer/dropboxdesign.desktop-kit/code/canvas.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/Utils/imageWorkAround.ts
+node_modules/@framer/dropboxdesign.desktop-kit/code/Utils/fetch.ts
+node_modules/@framer/dropboxdesign.desktop-kit/code/Subcomponents/WebView.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/Subcomponents/TrafficLights.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/Subcomponents/Spinner.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/Subcomponents/PopupMenuRow.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/Subcomponents/MessagePreview.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/Subcomponents/Icon.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/Subcomponents/FinderGrid.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/Subcomponents/Content.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/Overrides.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/LiveDesktop.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/Finder.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/code/Contexts/Contexts.ts
+node_modules/@framer/dropboxdesign.desktop-kit/code/Browser.tsx
+node_modules/@framer/dropboxdesign.desktop-kit/README.md
+node_modules/@framer/colebemis.feather-icons/tsconfig.json
+node_modules/@framer/colebemis.feather-icons/package.json
+node_modules/@framer/colebemis.feather-icons/node_modules/@types/react/package.json
+node_modules/@framer/colebemis.feather-icons/node_modules/@types/react/index.d.ts
+node_modules/@framer/colebemis.feather-icons/node_modules/@types/react/global.d.ts
+node_modules/@framer/colebemis.feather-icons/node_modules/@types/react/experimental.d.ts
+node_modules/@framer/colebemis.feather-icons/node_modules/@types/react/README.md
+node_modules/@framer/colebemis.feather-icons/node_modules/@types/react/LICENSE
+node_modules/@framer/colebemis.feather-icons/metadata/icon.png
+node_modules/@framer/colebemis.feather-icons/metadata/artwork.png
+node_modules/@framer/colebemis.feather-icons/design/document.json
+node_modules/@framer/colebemis.feather-icons/code/App.tsx
+node_modules/@framer/colebemis.feather-icons/build/index.js
+node_modules/@framer/colebemis.feather-icons/README.md
+design/images/zfP79NFbMD4kNx2yBFdsqIQkrFc.png
+design/images/yniniRKbiu7xTaJBSrJWWaDKz34.jpg
+design/images/vtgVHwZG1ONpIAP5jeupZWk2A.png
+design/images/uygq4XhyMkQWFdICjFHYmxyJ6bc.png
+design/images/tCTpViNqpi5J5OLUrQjXGSEDTY.jpg
+design/images/st7xYRCBNA6I0Gep5k6kYsNWibY.png
+design/images/s0rbj2o9nKu8TQODNZjr9asrvY.jpg
+design/images/rzQm6jVyjdMHbuLWgqMmhMyMrs.jpg
+design/images/r6mdCzNOB3H6d6rUMbwyjFDyo.jpg
+design/images/qCeHxuQ119zlHbW3xs3Lkes9A.png
+design/images/p3plRhEvSwQKVhvrvHyydEC17GA.png
+design/images/lw5jf313duhHjSa5nRu3MtsHjT0.png
+design/images/lA0heMrikvZs7t3L8rEJMNtzEYk.png
+design/images/ixKYl6KaWwmuW7vhN9JGskGTtPc.png
+design/images/ifthDzOxlyHOKQCZ6RfzNq6adso.png
+design/images/g8XJIrNsdfw603m9Bvm0zYPL7SQ.jpg
+design/images/fRXIuPOnJ13JZTh5XPgcfEAYc.png
+design/images/eWhUh2Okbf5vX5etMJNHIDqcJxw.png
+design/images/cqscXi4PY2iMPmP3OMS7gWWT8.png
+design/images/cD4VlMaT8tbDMKerEdpUaZ53ZA.png
+design/images/bzj6c36vMi34vBfc8oBLgT4.jpg
+design/images/bJIzXnP5V0lLTkFKiW6rOj4WyHk.png
+design/images/alA3JSdOn4C6VWKhDajrDPVEgC0.png
+design/images/ZUHFO9s69SoS99BYpdN21oqAIB0.jpg
+design/images/WwVJJUXeb8q4DbJK8zxP5xnGXI.jpg
+design/images/WAJ0PyVMg73v9pLmd7yv0l3zmb8.jpg
+design/images/Vwvk9adO9LJICpjuku1RORAxkAI.jpg
+design/images/Vo1Kc3fQPLMve0a7sTAp8s2A.jpg
+design/images/TTo4HyVAwez99TcXGC2CP5GtfFs.png
+design/images/SHElbwPANhqBcGJqdvaa2RBuok.png
+design/images/PZVwgnszNtPT9sF1vbJnDCI4c10.jpg
+design/images/Nz5vnnezypoTeHj4qb66MQ7hahQ.png
+design/images/NJPN8jApUW31sBs3CoVoXWntROs.png
+design/images/N16JwCEGuBvU0gMNc47jTnHlqg.jpg
+design/images/Ksg8IsyaCpAfacxKFoPKPvogDLs.png
+design/images/KCdbxzEmsIq8DEV8bWy36Iujvk.png
+design/images/JPewXT8VFJzr6WN33Iyvpaizz30.png
+design/images/IVai6IzTfgBCCzzoGeT9iFYYSbo.png
+design/images/EQi8aeuDieuJsZpun2zZGtQ.png
+design/images/DcBHtXgTwe4vdkZnhWR46bO1coA.jpg
+design/images/DaICBiORfOIk7U6Dox5h9S5dRCE.jpg
+design/images/D3fWGnMTSvp0ZgJ3wcgDqTlUSQ.png
+design/images/CPCNY97imoHIa1oVihB63qR3E2Y.png
+design/images/CEWnwQmX4CSDZW2lApdG9jEGk.jpg
+design/images/BVnypGApNDlhtImUYKedeZc4so.jpg
+design/images/BOIO5kqjhdf0eAWvMHDigXoRMJ4.jpg
+design/images/B6dvX4eh7erkhCnDaRFsDCFTo4.png
+design/images/Af1Wzmv8dlY9QlMQuaoz3bI4GE.jpg
+design/images/ASRDnV9vXfgaALwxvN5pVch4w.jpg
+design/images/AM6AnOf9AcTc4UaC70bJAafDDc.png
+design/images/9Uy8zLXZeaR7stk0H8FAhumtSQ.png
+design/images/9UHQyM4npPUL35PgZE9dAuLNEzQ.jpg
+design/images/9QtxLQwegrsATzLlgwZSQF1Jyg.jpg
+design/images/7RAEiSUQ5vrfTly1fqrqeT9tJY.jpg
+design/images/6KCKf1vljtBRDnurJoPmhpzmU.png
+design/images/5cJylZbIyhSr6O8QEaX1mi1Y.png
+design/images/4J6GW6PUyrtoavn94O5qtyKuE.png
+design/images/3vDgWDSSXY3xQABeyEjRA1uGU.jpg
+design/images/2lT7i3wIUPc7FCm90c66t0zVJIo.png
+design/images/1OmqVQUoWPdhgKTXNZRcZMOYcfE.jpg
+design/images/187Do2iQBjNNrCmt9xBkYLaoQM.png
+design/images/0SpEveGCmavutpEJurMTZhvGk7A.png
+build/vendors.js
+build/framer.js
+index.html
+build/react.development.js
+build/react-dom.development.js
+build/Draft.css
+build/style.css
+build/standalone.js
+images/cursors/touch.png
+images/cursors/touch@2x.png
+images/cursors/touch-active.png
+images/cursors/touch-active@2x.png
